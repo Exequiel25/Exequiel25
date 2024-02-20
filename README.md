@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Electronics Engineer (UTN-FRM)<br>I'm a web-developer in FM UTN 94.5 (https://www.fmutn.com.ar/)<br>I'm interested in robotics, automatism, and control<br>Ask me about Linux
+I'm currently studying Electronics Engineer (UTN-FRM)<br>I was a web-developer in FM UTN 94.5 (https://www.fmutn.com.ar/)<br>I'm interested in robotics, automatism, and control<br>Ask me about Linux
 
 
 ## 🌐 Socials:
